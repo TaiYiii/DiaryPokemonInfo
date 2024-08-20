@@ -1,0 +1,6 @@
+name: DiaryPokemonInfo
+version: '1.0.0-beta-SNAPSHOT'
+main: com.diary.pokemoninfo
+depend: [ PlaceholderAPI ]
+authors: [ Taiyi,FullIdle ]
+description: no use pokemoninfo plugin

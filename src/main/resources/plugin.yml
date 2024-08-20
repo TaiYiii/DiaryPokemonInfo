@@ -1,0 +1,6 @@
+name: ${rootProject.name}
+version: '${version}'
+main: ${group}
+depend: [ PlaceholderAPI ]
+authors: [ Taiyi,FullIdle ]
+description: no use pokemoninfo plugin

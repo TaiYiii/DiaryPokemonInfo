@@ -1,0 +1,14 @@
+mysql-storage:
+  #false则用yaml方式存储
+  enable: true
+  address: '127.0.0.1:3306'
+  database: 'PokeMTD'
+  username: 'taiyi'
+  password: 'YYY6598035.'
+  ##参数格式
+  ## key: value
+  properties:
+    useSSL: false
+    useUnicode: true
+    characterEncoding: 'utf8'
+
